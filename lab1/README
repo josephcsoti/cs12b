@@ -1,0 +1,19 @@
+/*------------------------------------------------
+File Name: README
+Desc: Gives info about project
+Instructions: None
+
+Name:   Joseph Csoti
+CruzID: 1617438
+Class:  CMPS 12M
+Date:   01/16/18
+------------------------------------------------*/
+
+Contents:
+  lab1/
+    HelloUser.java
+    HelloUser2.java
+    Makefile
+    README
+
+Notes: First lab submission!
