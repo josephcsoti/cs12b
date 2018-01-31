@@ -49,19 +49,17 @@ public class Search {
     int[] lineNumbers = new int[lines];
     //create line numbers
     for(int i=0; i<lineNumbers.length; i++){
-      lineNumbers[i] = i;
+      lineNumbers[i] = i+ 1;
     }
 
     //sort
     mergeSort(words, lineNumbers, 0, words.length-1);
 
-    //print
-
     //search for pos of each word
-    for(int i=0; i<words.length; i++){
-      int index = binarySearch(words, 0, words.length-1, args[i+1]);
-      String res = index >= 0 ? " found on line " + lineNumbers[i] : " not found";
-      System.out.println(args[i+1] + res);
+    for(int i=1; i<args.length; i++){
+      int index = binarySearch(words, 0, words.length-1, args[i]);
+      String res = index >= 0 ? " found on line " + (lineNumbers[index]) : " not found";
+      System.out.println(args[i] + res);
     }
 
     scan.close();
