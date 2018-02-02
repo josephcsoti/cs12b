@@ -1,0 +1,18 @@
+/*------------------------------------------------
+File Name: README
+Desc: Lab #3
+Instructions: None
+
+Name:   Joseph Csoti
+CruzID: 1617438
+Class:  CMPS 12M
+Date:   01/31/18
+------------------------------------------------*/
+
+Contents:
+  lab3/
+    FileReverse.c
+    Makefile
+    README
+
+Notes: Third lab
