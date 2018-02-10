@@ -1,0 +1,6 @@
+#Editor Settings
+/.vscode
+
+#Grading Script
+/pa*/backup
+/pa*/pa*.sh
