@@ -1,0 +1,23 @@
+/*------------------------------------------------
+File Name: README
+Desc: Dictionary using linked lists
+Instructions: None
+
+Name:   Joseph Csoti
+CruzID: 1617438
+Class:  CMPS 12B
+Date:   02/02/18
+------------------------------------------------*/
+
+Contents:
+  pa3/
+    Dictionary.java
+    DictionaryTest.java
+    DuplicateKeyException.java
+    KeyNotFoundException.java
+    DictionaryInterface.java
+    DictionaryClient.java
+    Makefile
+    README
+
+Notes: Node has 2 string fields
