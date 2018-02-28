@@ -1,0 +1,22 @@
+/*------------------------------------------------
+File Name: README
+Desc: Lab #6
+Instructions: None
+
+Name:   Joseph Csoti
+CruzID: 1617438
+Class:  CMPS 12M
+Date:   02/27/18
+------------------------------------------------*/
+
+Contents:
+  lab5/
+    List.java
+    ListTest.java
+    ListClient.java
+    ListInterface.java
+    ListIndexOutOfBoundsException.java
+    Makefile
+    README
+
+Notes: Finally another lab in Java. Java > C
