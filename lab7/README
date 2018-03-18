@@ -1,0 +1,22 @@
+/*------------------------------------------------
+File Name: README
+Desc: Lab #7
+Instructions: None
+
+Name:   Joseph Csoti
+CruzID: 1617438 // jcsoti
+Class:  CMPS 12M
+Date:   03/08/18
+------------------------------------------------*/
+
+Contents:
+  lab7/
+    DictionaryClient.java
+    DictionaryInterface.java
+    Dictionary.java
+    DuplicateKeyException.java
+    KeyNotFoundException.java
+    Makefile
+    README
+
+Notes: Last lab ever :(
