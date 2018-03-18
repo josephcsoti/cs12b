@@ -1,0 +1,21 @@
+/*------------------------------------------------
+File Name: README
+Desc: Create a Dictionary using a hashtable
+Instructions: None
+
+Name:   Joseph Csoti
+CruzID: 1617438 // jcsoti
+Class:  CMPS 12B
+Date:   03/16/18
+------------------------------------------------*/
+
+Contents:
+  pa5/
+    Dictionary.c
+    Dictionary.h
+    DictionaryClient.c
+    DictionaryTest.c
+    Makefile
+    README
+
+Notes: Last PA!!!
