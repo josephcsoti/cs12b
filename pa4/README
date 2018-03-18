@@ -1,0 +1,23 @@
+/*------------------------------------------------
+File Name: README
+Desc: Create a simulation of cpu and runtime using linked lists and queues
+Instructions: None
+
+Name:   Joseph Csoti
+CruzID: 1617438 // jcsoti
+Class:  CMPS 12B
+Date:   03/01/18
+------------------------------------------------*/
+
+Contents:
+  pa4/
+    Job.java
+    Queue.java
+    QueueTest.java
+    QueueInterface.java
+    QueueEmptyException.java
+    Simulation.java
+    Makefile
+    README
+
+Notes: None
